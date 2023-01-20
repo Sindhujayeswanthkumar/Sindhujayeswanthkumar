@@ -1,6 +1,6 @@
 title: Machine Learning
 logo: /assets/img/logo.png
 description: Courses by Dr. Balaji Srinivasan and Dr. Gnapathy Krishnamurthy, IITM.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
