@@ -1,2 +1,2 @@
 
-# Example MATLAB CODES
+# Example MATLAB Codes
