@@ -14,6 +14,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 </pre></p>
 </td></tr></table>
+<script type="text/javascript">
+// JavaScript example
+
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script>
+<p>okay</p>
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
