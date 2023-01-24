@@ -41,6 +41,12 @@ p {color:blue;}
 
 <p>okay</p>
 
+<blockquote>
+<h1>Foo</h1>
+<p>bar
+baz</p>
+</blockquote>
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
