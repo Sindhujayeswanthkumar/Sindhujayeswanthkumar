@@ -24,7 +24,20 @@ p {color:blue;}
 </style>
 <p>okay</p>
 
-
+<table>
+<thead>
+<tr>
+<th>foo</th>
+<th>bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>baz</td>
+<td>bim</td>
+</tr>
+</tbody>
+</table>
 
 <p>okay</p>
 
