@@ -16,6 +16,14 @@ or a file with information about your project.
 </pre></p>
 </td></tr></table>
 
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+<p>okay</p>
+
 
 
 <p>okay</p>
