@@ -10,15 +10,14 @@ layout: default
 <p><em>world</em>.
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, 
+or a file with information about your project.
 
 </pre></p>
 </td></tr></table>
-<script type="text/javascript">
-// JavaScript example
 
-document.getElementById("demo").innerHTML = "Hello JavaScript!";
-</script>
+
+
 <p>okay</p>
 
 
